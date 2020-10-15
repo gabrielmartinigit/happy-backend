@@ -3,3 +3,6 @@ node_modules/
 
 # MAC
 .DS_Store
+
+# Database
+src/database/database/
